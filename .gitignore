@@ -1,0 +1,13 @@
+# spice
+
+*.raw
+*.log
+
+# Altium
+
+History/
+__Previews/
+Project\ Logs*
+Project\ Outputs*
+*.rar
+*.zip
